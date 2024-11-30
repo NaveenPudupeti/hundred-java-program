@@ -10,7 +10,7 @@ public class AddingLargeNumbers {
 		
 		Scanner in = new Scanner(System.in);
 		
-		System.out.println("AddingLargeNumber:");
+		
 		System.out.println("Entered first large number");
 		number1 = in.nextLine();
 		
