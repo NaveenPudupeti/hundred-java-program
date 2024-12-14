@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class BigFactorial {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		int n, c;
 		BigInteger inc = new BigInteger("1");

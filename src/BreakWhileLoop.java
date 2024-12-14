@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class BreakWhileLoop {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		int n;
 		
 		Scanner input = new Scanner(System.in);
